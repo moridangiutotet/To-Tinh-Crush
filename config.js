@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'Bé Vy đáng iu tồ tẹt à à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    mess: 'Anh biết mà 🥰. Yêu bé nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh gọi cho em nhé công chúa tồ tẹt của anh.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/ghostlove1001/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
